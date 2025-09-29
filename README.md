@@ -22,7 +22,7 @@ Follow these steps to set up and run the game:
 1. **Clone the Repository:**
    ```
    git clone https://github.com/momokazi/Flame-Brick-Breaker.git
-   cd brick_breaker
+   cd Flame-Brick-Breaker
    ```
 
 2. **Install Dependencies:**
