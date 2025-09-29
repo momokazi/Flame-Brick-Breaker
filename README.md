@@ -21,7 +21,7 @@ Follow these steps to set up and run the game:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/dcfrancisco/brick_breaker.git
+   git clone https://github.com/momokazi/Flame-Brick-Breaker.git
    cd brick_breaker
    ```
 
