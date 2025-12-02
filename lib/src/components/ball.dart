@@ -50,11 +50,11 @@ class Ball extends CircleComponent
         add(
           RemoveEffect(
             delay: 0.35,
-            onComplete: () {                                    // Modify from here
+            onComplete: () {
               game.playState = PlayState.gameOver;
             },
           ),
-        );                                                      // To here.
+        );
       }
     } else if (other is Bat) {
       velocity.y = -velocity.y;
